@@ -1,0 +1,702 @@
+2023-04-19 09:53:14.7459 Info Message Template Auto Format enabled
+2023-04-19 09:53:14.8912 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-19 09:53:14.9242 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-19 11:25:44.9245 Info Message Template Auto Format enabled
+2023-04-19 11:25:45.0452 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-19 11:25:45.0883 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-19 11:29:15.6746 Info Message Template Auto Format enabled
+2023-04-19 11:29:15.7776 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-19 11:29:15.8108 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-19 11:38:35.3873 Info Message Template Auto Format enabled
+2023-04-19 11:38:35.4363 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-19 11:38:35.4564 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-19 11:38:59.5188 Info AppDomain Shutting down. LogFactory closing...
+2023-04-19 11:38:59.5333 Info LogFactory has been closed.
+2023-04-19 11:39:03.9246 Info Message Template Auto Format enabled
+2023-04-19 11:39:04.0161 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-19 11:39:04.0491 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-24 11:04:14.8597 Info Message Template Auto Format enabled
+2023-04-24 11:04:14.9965 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-24 11:04:15.0304 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-24 11:15:24.5460 Info Message Template Auto Format enabled
+2023-04-24 11:15:24.6733 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-24 11:15:24.7244 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-24 14:14:06.0072 Info Message Template Auto Format enabled
+2023-04-24 14:14:06.1493 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-24 14:14:06.1869 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-24 14:18:17.7537 Info Message Template Auto Format enabled
+2023-04-24 14:18:17.8684 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-24 14:18:17.9076 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-24 14:22:11.2095 Info Message Template Auto Format enabled
+2023-04-24 14:22:11.2990 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-24 14:22:11.3299 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-24 16:50:30.6036 Info Message Template Auto Format enabled
+2023-04-24 16:50:30.7306 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-24 16:50:30.7606 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-27 11:21:19.3927 Info Message Template Auto Format enabled
+2023-04-27 11:21:19.5259 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-27 11:21:19.5620 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-27 17:15:19.5768 Info Message Template Auto Format enabled
+2023-04-27 17:15:19.6255 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-27 17:15:19.6450 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-27 17:15:20.5768 Info AppDomain Shutting down. LogFactory closing...
+2023-04-27 17:15:20.5768 Info LogFactory has been closed.
+2023-04-27 17:15:39.4056 Info Message Template Auto Format enabled
+2023-04-27 17:15:39.4548 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-27 17:15:39.4744 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-27 17:15:40.3713 Info AppDomain Shutting down. LogFactory closing...
+2023-04-27 17:15:40.3713 Info LogFactory has been closed.
+2023-04-27 17:15:52.5287 Info Message Template Auto Format enabled
+2023-04-27 17:15:52.5749 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-27 17:15:52.5946 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-27 17:15:53.5656 Info AppDomain Shutting down. LogFactory closing...
+2023-04-27 17:15:53.5747 Info LogFactory has been closed.
+2023-04-28 09:57:45.5389 Info Message Template Auto Format enabled
+2023-04-28 09:57:45.6491 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-28 09:57:45.6886 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-28 10:12:57.2171 Info Message Template Auto Format enabled
+2023-04-28 10:12:57.3637 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-28 10:12:57.3966 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-04-28 14:59:27.0166 Info Message Template Auto Format enabled
+2023-04-28 14:59:27.1841 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-04-28 14:59:27.2329 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-02 11:05:04.7286 Info Message Template Auto Format enabled
+2023-05-02 11:05:04.8463 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-02 11:05:04.8728 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-02 14:36:27.3006 Info Message Template Auto Format enabled
+2023-05-02 14:36:27.4419 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-02 14:36:27.4841 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-02 17:10:35.1801 Info Message Template Auto Format enabled
+2023-05-02 17:10:35.3010 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-02 17:10:35.3426 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-03 14:20:24.7522 Info Message Template Auto Format enabled
+2023-05-03 14:20:24.8832 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-03 14:20:24.9140 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-03 16:44:07.1990 Info Message Template Auto Format enabled
+2023-05-03 16:44:07.2860 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-03 16:44:07.3124 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-04 13:46:23.8620 Info Message Template Auto Format enabled
+2023-05-04 13:46:24.0043 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 13:46:24.0512 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-04 16:51:15.3766 Info Message Template Auto Format enabled
+2023-05-04 16:51:15.4805 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-04 16:51:15.5121 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 11:38:17.3172 Info Message Template Auto Format enabled
+2023-05-08 11:38:17.4425 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 11:38:17.4719 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 13:09:31.1018 Info Message Template Auto Format enabled
+2023-05-08 13:09:31.2695 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 13:09:31.3278 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 13:10:20.2492 Info Message Template Auto Format enabled
+2023-05-08 13:10:20.4184 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 13:10:20.4745 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 13:17:57.1556 Info Message Template Auto Format enabled
+2023-05-08 13:17:57.2821 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 13:17:57.3250 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 13:39:14.4103 Info Message Template Auto Format enabled
+2023-05-08 13:39:14.5884 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 13:39:14.6756 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 13:43:52.1241 Info Message Template Auto Format enabled
+2023-05-08 13:43:52.2649 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 13:43:52.3045 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 13:47:09.1437 Info Message Template Auto Format enabled
+2023-05-08 13:47:09.2796 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 13:47:09.3267 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 13:48:30.4725 Info Message Template Auto Format enabled
+2023-05-08 13:48:30.6047 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 13:48:30.6500 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 13:50:16.6521 Info Message Template Auto Format enabled
+2023-05-08 13:50:16.7723 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 13:50:16.8144 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 13:50:53.4446 Info Message Template Auto Format enabled
+2023-05-08 13:50:53.5741 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 13:50:53.6221 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 13:52:17.6629 Info Message Template Auto Format enabled
+2023-05-08 13:52:17.8109 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 13:52:17.8520 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 13:56:56.5664 Info Message Template Auto Format enabled
+2023-05-08 13:56:56.7020 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 13:56:56.7429 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 14:18:37.0841 Info Message Template Auto Format enabled
+2023-05-08 14:18:37.1990 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 14:18:37.2418 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 14:53:28.6162 Info Message Template Auto Format enabled
+2023-05-08 14:53:28.7914 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 14:53:28.8271 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 14:59:44.8758 Info Message Template Auto Format enabled
+2023-05-08 14:59:45.0253 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 14:59:45.0652 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 15:10:59.8642 Info Message Template Auto Format enabled
+2023-05-08 15:10:59.9967 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 15:11:00.0481 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 15:23:32.7990 Info Message Template Auto Format enabled
+2023-05-08 15:23:32.9602 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 15:23:33.0065 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 15:29:53.9434 Info Message Template Auto Format enabled
+2023-05-08 15:29:54.0929 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 15:29:54.1456 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 15:31:46.3960 Info Message Template Auto Format enabled
+2023-05-08 15:31:46.5320 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 15:31:46.5716 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 15:32:42.0868 Info Message Template Auto Format enabled
+2023-05-08 15:32:42.2061 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 15:32:42.2445 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 15:38:00.2652 Info Message Template Auto Format enabled
+2023-05-08 15:38:00.4014 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 15:38:00.4443 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 15:55:22.0882 Info Message Template Auto Format enabled
+2023-05-08 15:55:22.2660 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 15:55:22.3186 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 15:55:48.3686 Info Message Template Auto Format enabled
+2023-05-08 15:55:48.5005 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 15:55:48.5536 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 16:49:09.2055 Info Message Template Auto Format enabled
+2023-05-08 16:49:09.3399 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 16:49:09.3874 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 16:54:47.8012 Info Message Template Auto Format enabled
+2023-05-08 16:54:47.9417 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 16:54:47.9862 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 17:00:33.3840 Info Message Template Auto Format enabled
+2023-05-08 17:00:33.5293 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 17:00:33.5798 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 17:02:42.8127 Info Message Template Auto Format enabled
+2023-05-08 17:02:42.9828 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 17:02:43.0247 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 17:10:20.4772 Info Message Template Auto Format enabled
+2023-05-08 17:10:20.6317 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 17:10:20.6825 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 17:15:23.8017 Info Message Template Auto Format enabled
+2023-05-08 17:15:23.9274 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 17:15:23.9690 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 17:19:10.3283 Info Message Template Auto Format enabled
+2023-05-08 17:19:10.4611 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 17:19:10.5107 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 17:30:44.6041 Info Message Template Auto Format enabled
+2023-05-08 17:30:44.7338 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 17:30:44.7798 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 17:36:29.7412 Info Message Template Auto Format enabled
+2023-05-08 17:36:29.9139 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 17:36:29.9664 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-08 17:41:16.4840 Info Message Template Auto Format enabled
+2023-05-08 17:41:16.5598 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-08 17:41:16.5893 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 09:26:22.0845 Info Message Template Auto Format enabled
+2023-05-09 09:26:22.1783 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 09:26:22.2061 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 09:28:54.9900 Info Message Template Auto Format enabled
+2023-05-09 09:28:55.0721 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 09:28:55.0994 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\musta\OneDrive\Masaüstü\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 09:54:16.4336 Info Message Template Auto Format enabled
+2023-05-09 09:54:16.6316 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 09:54:16.6745 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 09:56:16.5548 Info Message Template Auto Format enabled
+2023-05-09 09:56:17.0220 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 09:56:17.0947 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 10:08:15.6846 Info Message Template Auto Format enabled
+2023-05-09 10:08:15.8813 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 10:08:15.9282 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 10:16:25.4506 Info Message Template Auto Format enabled
+2023-05-09 10:16:25.5414 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 10:16:25.5783 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 10:16:26.9222 Info AppDomain Shutting down. LogFactory closing...
+2023-05-09 10:16:26.9365 Info LogFactory has been closed.
+2023-05-09 10:16:53.6100 Info Message Template Auto Format enabled
+2023-05-09 10:16:53.6903 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 10:16:53.7211 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 10:16:55.3736 Info AppDomain Shutting down. LogFactory closing...
+2023-05-09 10:16:55.3887 Info LogFactory has been closed.
+2023-05-09 10:18:21.0837 Info Message Template Auto Format enabled
+2023-05-09 10:18:21.1556 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 10:18:21.1860 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 10:18:22.4564 Info AppDomain Shutting down. LogFactory closing...
+2023-05-09 10:18:22.4564 Info LogFactory has been closed.
+2023-05-09 10:18:42.3119 Info Message Template Auto Format enabled
+2023-05-09 10:18:42.3864 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 10:18:42.4172 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 10:18:44.8191 Info AppDomain Shutting down. LogFactory closing...
+2023-05-09 10:18:44.8350 Info LogFactory has been closed.
+2023-05-09 10:21:36.3125 Info Message Template Auto Format enabled
+2023-05-09 10:21:36.5115 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 10:21:36.5618 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 10:46:31.5008 Info AppDomain Shutting down. LogFactory closing...
+2023-05-09 10:46:31.5428 Info LogFactory has been closed.
+2023-05-09 10:55:13.5411 Info Message Template Auto Format enabled
+2023-05-09 10:55:13.7818 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 10:55:13.8396 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 10:58:56.2100 Info Message Template Auto Format enabled
+2023-05-09 10:58:56.4032 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 10:58:56.4572 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 13:28:55.8545 Info Message Template Auto Format enabled
+2023-05-09 13:28:56.0451 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 13:28:56.0811 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 13:30:21.5537 Info Message Template Auto Format enabled
+2023-05-09 13:30:21.7463 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 13:30:21.8068 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 13:33:32.1868 Info Message Template Auto Format enabled
+2023-05-09 13:33:32.3525 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 13:33:32.4138 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 13:36:22.0062 Info Message Template Auto Format enabled
+2023-05-09 13:36:22.2250 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 13:36:22.2887 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 13:37:24.8910 Info Message Template Auto Format enabled
+2023-05-09 13:37:24.9619 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 13:37:24.9869 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 13:39:16.2345 Info Message Template Auto Format enabled
+2023-05-09 13:39:16.4014 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 13:39:16.4587 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 13:40:39.7701 Info Message Template Auto Format enabled
+2023-05-09 13:40:39.9331 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 13:40:39.9875 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 13:48:47.5185 Info Message Template Auto Format enabled
+2023-05-09 13:48:47.6963 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 13:48:47.7512 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 14:31:26.2295 Info Message Template Auto Format enabled
+2023-05-09 14:31:26.3517 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 14:31:26.3818 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 14:40:26.5010 Info Message Template Auto Format enabled
+2023-05-09 14:40:26.6805 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 14:40:26.7458 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 14:44:26.0937 Info Message Template Auto Format enabled
+2023-05-09 14:44:26.3911 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 14:44:26.4851 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 15:00:30.4738 Info Message Template Auto Format enabled
+2023-05-09 15:00:30.6543 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 15:00:30.7042 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 15:01:31.6505 Info Message Template Auto Format enabled
+2023-05-09 15:01:32.0013 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 15:01:32.0553 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 15:08:26.3609 Info Message Template Auto Format enabled
+2023-05-09 15:08:26.6306 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 15:08:26.6897 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 15:13:06.0497 Info Message Template Auto Format enabled
+2023-05-09 15:13:06.2807 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 15:13:06.3489 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 15:17:33.7633 Info Message Template Auto Format enabled
+2023-05-09 15:17:33.9906 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 15:17:34.1060 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 15:24:34.6174 Info Message Template Auto Format enabled
+2023-05-09 15:24:34.7880 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 15:24:34.8370 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 15:29:57.0667 Info Message Template Auto Format enabled
+2023-05-09 15:29:57.3299 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 15:29:57.3866 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 15:31:43.0751 Info Message Template Auto Format enabled
+2023-05-09 15:31:43.2788 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 15:31:43.3347 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-09 15:33:28.8069 Info Message Template Auto Format enabled
+2023-05-09 15:33:28.9847 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-09 15:33:29.0267 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-10 10:07:54.7771 Info Message Template Auto Format enabled
+2023-05-10 10:07:55.1612 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 10:07:55.2467 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-10 10:10:40.9314 Info Message Template Auto Format enabled
+2023-05-10 10:10:41.1543 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 10:10:41.2164 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-10 10:17:26.0166 Info Message Template Auto Format enabled
+2023-05-10 10:17:26.2559 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 10:17:26.3182 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-10 10:46:48.4289 Info Message Template Auto Format enabled
+2023-05-10 10:46:48.6769 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 10:46:48.7344 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-10 10:59:46.7012 Info Message Template Auto Format enabled
+2023-05-10 10:59:46.8723 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 10:59:46.9182 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-10 11:01:18.9354 Info Message Template Auto Format enabled
+2023-05-10 11:01:19.1639 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 11:01:19.2285 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-10 11:03:58.7586 Info Message Template Auto Format enabled
+2023-05-10 11:03:58.9394 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 11:03:58.9960 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-10 11:06:28.5424 Info Message Template Auto Format enabled
+2023-05-10 11:06:28.7399 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 11:06:28.7930 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-10 11:14:06.6255 Info Message Template Auto Format enabled
+2023-05-10 11:14:06.8260 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 11:14:06.9051 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-10 13:35:42.2718 Info Message Template Auto Format enabled
+2023-05-10 13:35:42.4392 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-10 13:35:42.4706 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-11 11:32:39.6455 Info Message Template Auto Format enabled
+2023-05-11 11:32:39.7467 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 11:32:39.7701 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-11 11:32:41.2506 Info AppDomain Shutting down. LogFactory closing...
+2023-05-11 11:32:41.2609 Info LogFactory has been closed.
+2023-05-11 11:33:47.4081 Info Message Template Auto Format enabled
+2023-05-11 11:33:47.4539 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 11:33:47.4723 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-11 11:33:48.9682 Info AppDomain Shutting down. LogFactory closing...
+2023-05-11 11:33:48.9804 Info LogFactory has been closed.
+2023-05-11 13:23:04.2744 Info Message Template Auto Format enabled
+2023-05-11 13:23:04.3328 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 13:23:04.3550 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-11 13:23:05.6514 Info AppDomain Shutting down. LogFactory closing...
+2023-05-11 13:23:05.6672 Info LogFactory has been closed.
+2023-05-11 13:23:50.4385 Info Message Template Auto Format enabled
+2023-05-11 13:23:50.4835 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-11 13:23:50.5021 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-11 13:23:51.8336 Info AppDomain Shutting down. LogFactory closing...
+2023-05-11 13:23:51.8474 Info LogFactory has been closed.
+2023-05-12 09:51:43.2149 Info Message Template Auto Format enabled
+2023-05-12 09:51:44.1393 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 09:51:44.2506 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 09:58:52.1376 Info Message Template Auto Format enabled
+2023-05-12 09:58:52.3793 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 09:58:52.4396 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:06:02.5862 Info Message Template Auto Format enabled
+2023-05-12 10:06:02.7784 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:06:02.8391 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:07:39.2857 Info Message Template Auto Format enabled
+2023-05-12 10:07:39.4790 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:07:39.5594 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:07:59.6715 Info Message Template Auto Format enabled
+2023-05-12 10:07:59.8697 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:07:59.9391 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:08:08.6083 Info Message Template Auto Format enabled
+2023-05-12 10:08:08.7299 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:08:08.7628 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:08:37.4322 Info Message Template Auto Format enabled
+2023-05-12 10:08:37.6468 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:08:37.6863 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:08:50.8969 Info Message Template Auto Format enabled
+2023-05-12 10:08:50.9980 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:08:51.0295 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:12:12.4339 Info Message Template Auto Format enabled
+2023-05-12 10:12:12.5483 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:12:12.5820 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:14:00.1680 Info Message Template Auto Format enabled
+2023-05-12 10:14:00.3852 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:14:00.4265 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:15:20.7478 Info Message Template Auto Format enabled
+2023-05-12 10:15:20.9309 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:15:20.9738 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:16:25.0299 Info Message Template Auto Format enabled
+2023-05-12 10:16:25.2030 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:16:25.2812 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:24:32.9454 Info Message Template Auto Format enabled
+2023-05-12 10:24:33.1025 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:24:33.1271 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:25:18.6831 Info Message Template Auto Format enabled
+2023-05-12 10:25:18.9027 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:25:18.9672 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:28:14.2693 Info Message Template Auto Format enabled
+2023-05-12 10:28:14.4678 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:28:14.5364 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:28:52.0090 Info Message Template Auto Format enabled
+2023-05-12 10:28:52.2188 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:28:52.2741 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:29:28.6953 Info Message Template Auto Format enabled
+2023-05-12 10:29:28.8911 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:29:28.9883 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:31:07.3577 Info Message Template Auto Format enabled
+2023-05-12 10:31:07.5850 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:31:07.6420 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:35:42.8503 Info Message Template Auto Format enabled
+2023-05-12 10:35:43.0019 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:35:43.0357 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:55:54.9247 Info Message Template Auto Format enabled
+2023-05-12 10:55:55.1558 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:55:55.2160 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 10:56:26.7993 Info Message Template Auto Format enabled
+2023-05-12 10:56:26.9586 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 10:56:27.0193 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:11:22.1373 Info Message Template Auto Format enabled
+2023-05-12 13:11:22.1978 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:11:22.2190 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:12:01.9690 Info Message Template Auto Format enabled
+2023-05-12 13:12:02.1657 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:12:02.2349 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:13:57.7671 Info Message Template Auto Format enabled
+2023-05-12 13:13:57.9872 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:13:58.0315 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:16:17.5611 Info Message Template Auto Format enabled
+2023-05-12 13:16:17.7605 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:16:17.8124 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:18:19.7170 Info Message Template Auto Format enabled
+2023-05-12 13:18:19.9500 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:18:19.9809 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:20:07.4450 Info Message Template Auto Format enabled
+2023-05-12 13:20:07.6841 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:20:07.7558 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:21:01.6241 Info Message Template Auto Format enabled
+2023-05-12 13:21:01.8182 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:21:01.8553 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:21:12.8361 Info Message Template Auto Format enabled
+2023-05-12 13:21:13.1242 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:21:13.1805 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:21:43.5348 Info Message Template Auto Format enabled
+2023-05-12 13:21:43.7083 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:21:43.7671 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:21:57.7012 Info Message Template Auto Format enabled
+2023-05-12 13:21:57.9061 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:21:57.9618 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:22:39.6265 Info Message Template Auto Format enabled
+2023-05-12 13:22:39.8201 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:22:39.8821 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:23:38.2338 Info Message Template Auto Format enabled
+2023-05-12 13:23:38.4201 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:23:38.4868 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:24:38.8421 Info Message Template Auto Format enabled
+2023-05-12 13:24:39.1088 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:24:39.1454 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:25:14.7521 Info Message Template Auto Format enabled
+2023-05-12 13:25:15.0476 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:25:15.1079 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:31:10.9985 Info Message Template Auto Format enabled
+2023-05-12 13:31:11.2097 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:31:11.2664 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 13:31:59.6296 Info Message Template Auto Format enabled
+2023-05-12 13:31:59.8471 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 13:31:59.9130 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-12 16:02:58.5003 Info Message Template Auto Format enabled
+2023-05-12 16:02:58.5887 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-12 16:02:58.6239 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 09:38:51.3380 Info Message Template Auto Format enabled
+2023-05-15 09:38:51.6998 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 09:38:51.7600 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 10:40:07.5858 Info Message Template Auto Format enabled
+2023-05-15 10:40:07.7264 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 10:40:07.7562 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 11:06:27.4629 Info Message Template Auto Format enabled
+2023-05-15 11:06:28.0990 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 11:06:28.1646 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 11:09:59.9382 Info Message Template Auto Format enabled
+2023-05-15 11:10:00.2448 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 11:10:00.3173 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 11:12:36.5888 Info Message Template Auto Format enabled
+2023-05-15 11:12:36.7603 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 11:12:36.8126 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 11:17:01.2684 Info Message Template Auto Format enabled
+2023-05-15 11:17:01.4486 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 11:17:01.4997 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 11:25:41.7491 Info Message Template Auto Format enabled
+2023-05-15 11:25:41.9421 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 11:25:41.9944 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 11:31:44.7392 Info Message Template Auto Format enabled
+2023-05-15 11:31:44.9521 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 11:31:45.0286 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 13:27:38.5941 Info Message Template Auto Format enabled
+2023-05-15 13:27:38.8108 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 13:27:38.8599 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 13:31:04.8678 Info Message Template Auto Format enabled
+2023-05-15 13:31:05.0671 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 13:31:05.1351 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 13:36:29.1706 Info Message Template Auto Format enabled
+2023-05-15 13:36:29.3313 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 13:36:29.3846 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 14:03:26.6664 Info Message Template Auto Format enabled
+2023-05-15 14:03:26.7231 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 14:03:26.7476 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 14:03:28.0441 Info AppDomain Shutting down. LogFactory closing...
+2023-05-15 14:03:28.0532 Info LogFactory has been closed.
+2023-05-15 14:03:53.8828 Info Message Template Auto Format enabled
+2023-05-15 14:03:53.9314 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 14:03:53.9498 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 14:03:55.2899 Info AppDomain Shutting down. LogFactory closing...
+2023-05-15 14:03:55.3024 Info LogFactory has been closed.
+2023-05-15 15:41:46.9819 Info Message Template Auto Format enabled
+2023-05-15 15:41:47.2997 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 15:41:47.3836 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 16:11:58.6873 Info Message Template Auto Format enabled
+2023-05-15 16:11:58.9884 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 16:11:59.0353 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 16:15:42.0493 Info Message Template Auto Format enabled
+2023-05-15 16:15:42.2701 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 16:15:42.3234 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 16:16:26.8684 Info Message Template Auto Format enabled
+2023-05-15 16:16:27.0293 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 16:16:27.0882 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 16:17:22.5790 Info Message Template Auto Format enabled
+2023-05-15 16:17:22.7534 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 16:17:22.8187 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 16:21:27.3990 Info Message Template Auto Format enabled
+2023-05-15 16:21:27.6106 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 16:21:27.6608 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-15 16:34:26.4531 Info Message Template Auto Format enabled
+2023-05-15 16:34:26.6668 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-15 16:34:26.7220 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 10:04:26.0532 Info Message Template Auto Format enabled
+2023-05-16 10:04:26.3311 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 10:04:26.4424 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 10:09:35.8837 Info Message Template Auto Format enabled
+2023-05-16 10:09:36.0668 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 10:09:36.1144 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 10:14:24.3801 Info Message Template Auto Format enabled
+2023-05-16 10:14:24.7205 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 10:14:24.7784 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 10:23:50.2484 Info Message Template Auto Format enabled
+2023-05-16 10:23:50.4919 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 10:23:50.5724 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 10:25:05.7666 Info Message Template Auto Format enabled
+2023-05-16 10:25:06.0407 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 10:25:06.1568 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 14:12:01.6593 Info Message Template Auto Format enabled
+2023-05-16 14:12:01.7550 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 14:12:01.7778 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 14:12:03.1837 Info AppDomain Shutting down. LogFactory closing...
+2023-05-16 14:12:03.1938 Info LogFactory has been closed.
+2023-05-16 14:12:49.2036 Info Message Template Auto Format enabled
+2023-05-16 14:12:49.2471 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 14:12:49.2654 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 14:12:53.0387 Info AppDomain Shutting down. LogFactory closing...
+2023-05-16 14:12:53.0478 Info LogFactory has been closed.
+2023-05-16 15:22:22.1862 Info Message Template Auto Format enabled
+2023-05-16 15:22:22.3511 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 15:22:22.3885 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 15:23:07.2643 Info Message Template Auto Format enabled
+2023-05-16 15:23:07.4868 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 15:23:07.5485 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 15:23:57.5741 Info Message Template Auto Format enabled
+2023-05-16 15:23:57.8172 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 15:23:57.8969 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 15:24:17.4950 Info Message Template Auto Format enabled
+2023-05-16 15:24:17.5463 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 15:24:17.5650 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 15:28:24.9788 Info Message Template Auto Format enabled
+2023-05-16 15:28:25.1463 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 15:28:25.2532 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 15:28:48.1076 Info Message Template Auto Format enabled
+2023-05-16 15:28:48.3055 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 15:28:48.3650 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-16 15:30:18.9270 Info Message Template Auto Format enabled
+2023-05-16 15:30:19.2187 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-16 15:30:19.3013 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:03:47.7989 Info Message Template Auto Format enabled
+2023-05-17 10:03:48.2058 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:03:48.3234 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:20:14.0861 Info Message Template Auto Format enabled
+2023-05-17 10:20:14.1759 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:20:14.2094 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:20:15.7203 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:20:15.7323 Info LogFactory has been closed.
+2023-05-17 10:21:10.5628 Info Message Template Auto Format enabled
+2023-05-17 10:21:10.6109 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:21:10.6303 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:21:12.2454 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:21:12.2594 Info LogFactory has been closed.
+2023-05-17 10:22:18.8715 Info Message Template Auto Format enabled
+2023-05-17 10:22:18.9298 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:22:18.9508 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:22:20.2331 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:22:20.2331 Info LogFactory has been closed.
+2023-05-17 10:22:45.6443 Info Message Template Auto Format enabled
+2023-05-17 10:22:45.6900 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:22:45.7095 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:22:47.2640 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:22:47.2735 Info LogFactory has been closed.
+2023-05-17 10:23:47.9340 Info Message Template Auto Format enabled
+2023-05-17 10:23:47.9785 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:23:47.9977 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:23:49.2440 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:23:49.2440 Info LogFactory has been closed.
+2023-05-17 10:25:26.2440 Info Message Template Auto Format enabled
+2023-05-17 10:25:26.2905 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:25:26.3097 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:25:27.5141 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:25:27.5230 Info LogFactory has been closed.
+2023-05-17 10:26:03.7405 Info Message Template Auto Format enabled
+2023-05-17 10:26:03.7881 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:26:03.8107 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:26:05.0929 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:26:05.1023 Info LogFactory has been closed.
+2023-05-17 10:26:58.3421 Info Message Template Auto Format enabled
+2023-05-17 10:26:58.3860 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:26:58.4041 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:26:59.6425 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:26:59.6552 Info LogFactory has been closed.
+2023-05-17 10:28:37.9668 Info Message Template Auto Format enabled
+2023-05-17 10:28:38.0096 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:28:38.0274 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:28:39.2212 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:28:39.2308 Info LogFactory has been closed.
+2023-05-17 10:28:52.0886 Info Message Template Auto Format enabled
+2023-05-17 10:28:52.1406 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:28:52.1600 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:28:53.4215 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:28:53.4215 Info LogFactory has been closed.
+2023-05-17 10:35:01.7723 Info Message Template Auto Format enabled
+2023-05-17 10:35:01.8218 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:35:01.8420 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:35:03.0226 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:35:03.0334 Info LogFactory has been closed.
+2023-05-17 10:35:50.0784 Info Message Template Auto Format enabled
+2023-05-17 10:35:50.1254 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:35:50.1438 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:35:51.3890 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:35:51.3890 Info LogFactory has been closed.
+2023-05-17 10:37:55.3166 Info Message Template Auto Format enabled
+2023-05-17 10:37:55.3840 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:37:55.4032 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:37:57.2380 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:37:57.2380 Info LogFactory has been closed.
+2023-05-17 10:39:21.9233 Info Message Template Auto Format enabled
+2023-05-17 10:39:21.9686 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:39:21.9872 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:39:23.2941 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:39:23.3027 Info LogFactory has been closed.
+2023-05-17 10:39:34.3372 Info Message Template Auto Format enabled
+2023-05-17 10:39:34.3854 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:39:34.4064 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:39:35.7836 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:39:35.7957 Info LogFactory has been closed.
+2023-05-17 10:54:28.7285 Info Message Template Auto Format enabled
+2023-05-17 10:54:28.7933 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:54:28.8126 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:54:29.9863 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:54:29.9863 Info LogFactory has been closed.
+2023-05-17 10:54:38.5704 Info Message Template Auto Format enabled
+2023-05-17 10:54:38.6158 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:54:38.6344 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:54:40.0218 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:54:40.0303 Info LogFactory has been closed.
+2023-05-17 10:54:59.5866 Info Message Template Auto Format enabled
+2023-05-17 10:54:59.6325 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:54:59.6522 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:55:00.9853 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:55:01.0016 Info LogFactory has been closed.
+2023-05-17 10:55:35.7513 Info Message Template Auto Format enabled
+2023-05-17 10:55:35.7983 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 10:55:35.8185 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 10:55:39.2709 Info AppDomain Shutting down. LogFactory closing...
+2023-05-17 10:55:39.2811 Info LogFactory has been closed.
+2023-05-17 11:15:43.3443 Info Message Template Auto Format enabled
+2023-05-17 11:15:43.7414 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 11:15:43.7945 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 13:21:40.8909 Info Message Template Auto Format enabled
+2023-05-17 13:21:41.0397 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 13:21:41.0686 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 13:29:25.0574 Info Message Template Auto Format enabled
+2023-05-17 13:29:25.1858 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 13:29:25.2173 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 13:47:09.3289 Info Message Template Auto Format enabled
+2023-05-17 13:47:09.5170 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 13:47:09.5595 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 13:54:50.0690 Info Message Template Auto Format enabled
+2023-05-17 13:54:50.3033 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 13:54:50.3444 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 14:15:12.3263 Info Message Template Auto Format enabled
+2023-05-17 14:15:12.5065 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 14:15:12.5424 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 14:39:55.5565 Info Message Template Auto Format enabled
+2023-05-17 14:39:55.7237 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 14:39:55.7544 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 14:40:50.0784 Info Message Template Auto Format enabled
+2023-05-17 14:40:50.3170 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 14:40:50.3856 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-17 14:44:15.2244 Info Message Template Auto Format enabled
+2023-05-17 14:44:15.4484 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-17 14:44:15.5214 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-24 14:02:52.9441 Info Message Template Auto Format enabled
+2023-05-24 14:02:55.4764 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-24 14:02:55.5699 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-24 15:00:52.9230 Info Message Template Auto Format enabled
+2023-05-24 15:00:53.1300 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-24 15:00:53.1991 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-24 15:03:33.5190 Info Message Template Auto Format enabled
+2023-05-24 15:03:33.7619 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-24 15:03:33.8522 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-26 11:02:02.9234 Info Message Template Auto Format enabled
+2023-05-26 11:02:03.0985 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-26 11:02:03.1468 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
+2023-05-26 13:08:59.5755 Info Message Template Auto Format enabled
+2023-05-26 13:08:59.7964 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-05-26 13:08:59.8530 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\ismailuzundag\Downloads\Uygulama\bsStoreApp\WebApi\nlog.config
